@@ -1,0 +1,27 @@
+{
+  "name": "wheels",
+  "version": "1.0.0",
+  "description": "学源码，造轮子",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangfy1994/wheels.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhangfy1994/wheels/issues"
+  },
+  "homepage": "https://github.com/zhangfy1994/wheels#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.25"
+  }
+}
